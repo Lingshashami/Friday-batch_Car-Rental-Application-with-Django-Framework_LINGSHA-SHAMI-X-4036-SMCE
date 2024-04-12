@@ -1,1 +1,22 @@
-# Friday-batch_Car-Rental-Application-with-Django-Framework_LINGSHA-SHAMI-X-4036-SMCE
+# NM_FRIDAYBATCH_FSWD_PROJECT
+
+
+Project implemented by: 
+
+
+Name:
+
+
+ID:
+
+
+College name:
+
+
+Login credentials: 
+
+username: root
+
+
+Password: root
+
